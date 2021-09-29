@@ -21,7 +21,7 @@
 * Com o git bash dentro do diretório criado, executar os seguintes comandos:
 * $ git add ola_mundo.txt
 * $ git commit -m "first commit"
-* $ git add ola_mundo.txt 
+* $ git push -u origin main 
 
 
 ### _4._ Se não existir em seu diretório, adicione ao seu diretório um arquivo com o nome de “.gitignore”. Em seguida, crie um arquivo chamado “serei_ignorado.txt” e adicione algum texto dentro dele. Adicione a instrução ao arquivo “.gitignore” para que as alterações realizadas no arquivo “serei_ignorado.txt” não seja controlado pelo git. 
